@@ -1,4 +1,4 @@
-FROM ubuntu:14.4
+FROM ubuntu:trusty
 MAINTAINER progrium "progrium@gmail.com"
 
 RUN mkdir /build
